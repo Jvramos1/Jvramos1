@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jvramos1&bg_color=000000&color=00bfbf&line=07e9a5&point=0a855c&area=true&hide_border=True)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jvramos1&bg_color=red&color=00bfbf&line=07e9a5&point=0a855c&area=true&hide_border=True)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img align="center" alt="logo-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
