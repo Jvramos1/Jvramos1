@@ -1,6 +1,5 @@
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=700&lines=HELLO,+MY+NAME+is+João+Victor;I'm+18+years+old;I+am+from+Brazil;I+study+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <a href="https://github.com/Jvramos1/github-readme-stats">
   <img width="49%" height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Jvramos1&theme=aura" />
