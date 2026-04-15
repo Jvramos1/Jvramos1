@@ -11,9 +11,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ## 🧠 What I do
 
 - 🏗️ Build real-world systems (SaaS, internal tools & automation platforms)
-- ⚡ Optimize performance for systems that actually run in production
 - 🧩 Design scalable architectures with clean and maintainable code
-- 🔐 Implement secure authentication & robust API structures
 - 🤖 Automate workflows and connect systems (APIs, webhooks, integrations)
 - 📊 Create dashboards focused on operational control and decision-making
 - 🚀 Turn ideas into working products fast (from concept to deployment)
@@ -29,12 +27,12 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
 ### Backend
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![C](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
 ### DevOps & Tools
