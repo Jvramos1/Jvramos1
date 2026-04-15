@@ -40,6 +40,10 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvramos1&hide_progress=true&theme=tokyonight)
 
 ---
 
