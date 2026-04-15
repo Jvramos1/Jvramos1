@@ -1,6 +1,6 @@
 # Hi 👋, I'm João Victor
 
-🚀 *Junior Software Engineer |
+🚀 Junior Software Engineer |
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
