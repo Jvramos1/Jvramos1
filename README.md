@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26750877/README.md)
 # Hi 👋, I'm João Victor
 
 🚀 *Junior Software Engineer |
