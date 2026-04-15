@@ -43,7 +43,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ---
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvramos1&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvramos1&layout=compact&theme=dark)
 
 ---
 
